@@ -1,7 +1,7 @@
 ## GIT DEMO
 
 
-#Some other
+# Some other
 
 > Some
 
